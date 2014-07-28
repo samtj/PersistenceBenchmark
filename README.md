@@ -39,7 +39,8 @@ However, it does so at a cost that is not covered here.
 
 **Get** Operations
 
-![Get Benchmark](GetBenchmark.png)
+![Get Benchmark Small](GetBenchmark_Small.png)
+![Get Benchmark Large](GetBenchmark_Large.png)
 
 **Put** Operations
 
