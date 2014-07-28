@@ -44,7 +44,8 @@ However, it does so at a cost that is not covered here.
 
 **Put** Operations
 
-![Put Benchmark](PutBenchmark.png)
+![Put Benchmark Small](PutBenchmark_Small.png)
+![Put Benchmark Large](PutBenchmark_Large.png)
 
 There is no free lunch.
 
